@@ -2,6 +2,8 @@
 
 `[normalrandom]` generates normally-distributed random numbers in Max, using the Box-Muller transform.
 
+![.maxhelp](image.png)
+
 ## Using
 
 Clone this repository into `Documents/Max 7/Packages` (or whatever the exact
